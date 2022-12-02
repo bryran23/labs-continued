@@ -1,0 +1,10 @@
+C:\Users\bryra\OneDrive\Documents\CIS 199\labs\Lab6\Lab6\bin\Debug\Lab6.exe.config
+C:\Users\bryra\OneDrive\Documents\CIS 199\labs\Lab6\Lab6\bin\Debug\Lab6.exe
+C:\Users\bryra\OneDrive\Documents\CIS 199\labs\Lab6\Lab6\bin\Debug\Lab6.pdb
+C:\Users\bryra\OneDrive\Documents\CIS 199\labs\Lab6\Lab6\obj\Debug\Lab6.csprojAssemblyReference.cache
+C:\Users\bryra\OneDrive\Documents\CIS 199\labs\Lab6\Lab6\obj\Debug\Lab6.Properties.Resources.resources
+C:\Users\bryra\OneDrive\Documents\CIS 199\labs\Lab6\Lab6\obj\Debug\Lab6.csproj.GenerateResource.cache
+C:\Users\bryra\OneDrive\Documents\CIS 199\labs\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\bryra\OneDrive\Documents\CIS 199\labs\Lab6\Lab6\obj\Debug\Lab6.exe
+C:\Users\bryra\OneDrive\Documents\CIS 199\labs\Lab6\Lab6\obj\Debug\Lab6.pdb
+C:\Users\bryra\OneDrive\Documents\CIS 199\labs\Lab6\Lab6\obj\Debug\Lab6.Lab6.resources
